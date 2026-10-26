@@ -19,7 +19,12 @@ main{
 #titulo{
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
+    color:#004390
     
+}
+.hobby-lindo{ 
+    background-color: #d1eaff; /* Um azul bem clarinho */
+    font-weight: bold;
 }
 #id{
     max-width: 50px;
