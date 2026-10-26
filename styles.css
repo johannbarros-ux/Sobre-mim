@@ -3,11 +3,18 @@ body{
     background-color:#EAF7F1;
     font-family: Arial, Helvetica, sans-serif;
     padding: 16px;
+    color: #002147;
+
+}
+html{
+max-width: 600px;
+    margin: 0 auto;
+    padding-left: 24px;
+    text-align: left;
 }
 main{
     max-width: 999px;
     margin: 0 auto;
-    text-align: center;
 }
 #titulo{
     font-size: 50px;
@@ -23,11 +30,7 @@ main{
   padding: 0;
   box-sizing: border-box;
 }
-header,
-section,
-footer {
-    padding: 20px;
-}
+
 section {
     max-width: 999px;
     margin: 16px auto;
@@ -44,16 +47,7 @@ p {
     height: auto;
     margin: 0 auto 16px;
 }
-ul,
-ol {
-    max-width: 600px;
-    margin: 0 auto;
-    padding-left: 24px;
-    text-align: left;
-}
-li {
-    margin-bottom: 8px;
-}
+
 footer {
     margin-top: 16px;
     text-align: center;
